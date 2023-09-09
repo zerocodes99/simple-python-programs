@@ -1,3 +1,5 @@
+# Write a program to find the number is even or odd
+
 def even_odd(x):  # defining function
     if x % 2 == 0: # condition for even numbers
         print(f"{x} is a even number.")
