@@ -1,4 +1,4 @@
-# program to check the number is prime or not
+# program to check the number is prime or not.
 
 def prime_checker(num):
     is_prime = True
